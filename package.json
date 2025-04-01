@@ -1,0 +1,18 @@
+{
+  "name": "gamja-buin-bot",
+  "version": "1.0.0",
+  "description": "디스코드에서 기상 인증, 일일 목표 수행, 상점/벌점, 그리고 MVP까지 관리해주는 감자부인의 디스코드 봇입니다! 친구들과 함께 목표를 달성하고 서로의 하루를 응원해보세요! 💪",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
